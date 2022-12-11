@@ -1,19 +1,19 @@
-# Investigating-Sakila-DVD-Rental-database
+# Investigating-Sakila-DVD-Rental-database-
 
-Project to the course Programming for Data Science at Udacity
-Date created
 
-May 2019
+### Project Title
+Investigating Sakila DVD Rental database
 
-Description
+### Date created
+October 2022
 
-Use SQL to explore a database related to movie rentals
+### Description
+exploring a database related to movie rentals using SQL, And investigate what the patterns in movie watching are across different customer groups.
 
-Files
-
+### Files used
 Queries file is the collection of queries created to generate answers to questions. Report is the result of analysis in graph
 
 
-Credits
+### Credits
 http://www.postgresqltutorial.com/postgresql-sample-database/
 https://www.w3schools.com/sql/sql_quickref.asp
