@@ -1,4 +1,4 @@
-# Investigating-Sakila-DVD-Rental-database-
+# Investigating-Sakila-DVD-Rental-database
 
 
 ### Project Title
