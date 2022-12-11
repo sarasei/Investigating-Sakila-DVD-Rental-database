@@ -16,4 +16,3 @@ Queries file is the collection of queries created to generate answers to questio
 
 ### Credits
 http://www.postgresqltutorial.com/postgresql-sample-database/
-https://www.w3schools.com/sql/sql_quickref.asp
